@@ -57,7 +57,7 @@
         <p>At Your Travel Agency, we believe that every journey is a story waiting to be told. Whether you're seeking the sun-drenched beaches, the thrill of a mountain expedition, or the rich tapestry of cultural experiences, we're here to turn your travel dreams into reality.</p>
         <p>Explore our curated destinations, discover exclusive packages, and let the journey of a lifetime begin!</p>
     </section>
-    <section ">
+    <section >
         <h2>Tropical Paradise - Bali, Indonesia</h2>
         <p>Escape to the enchanting island of Bali, where palm-fringed beaches, lush landscapes, and vibrant culture await. Dive into crystal-clear waters, explore ancient temples, and indulge in the warmth of Balinese hospitality.</p>
     </section>
