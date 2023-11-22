@@ -1,0 +1,10 @@
+/* Reset some default styles for better consistency across browsers */
+body, h1, h2, h3, p, ul, li, form, input, button {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    box-sizing: border-box;
+}
